@@ -13,5 +13,15 @@ namespace amazon2.Controllers
         {
             return View();
         }
-    }
+
+        //public ActionResult Detalle(id)
+
+        //{
+        //  var producto = obtenerDetalleDelProducto(id);
+
+        //  return View(producto);
+
+        //}
+     }
 }
+
